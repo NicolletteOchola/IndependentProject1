@@ -3,9 +3,6 @@
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-weight: 300;
    font-size: 12px;
-   background-image: url("../images/Girl\ Coding.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
  
 
     }
@@ -13,10 +10,12 @@
 #container {
       width: 80%;
       margin: 0 auto;
+      background-image: url("../images/NicolLogo.png");
+      background-size: 39px;
+      background-repeat: no-repeat;
       }
  header {
-   background-color: black;
-   opacity: 0.5;
+   background-color:rgba(255, 255, 255, 0.603);
  }
 header :after{
 content: '';
@@ -40,7 +39,7 @@ clear: both;
  }
 
  nav a {
-   color: white;
+   color:rgb(0, 0, 0);
    text-decoration: none;
 
    
@@ -56,10 +55,21 @@ clear: both;
   -webkit-transition: opacity .40s ease-in-out;
 }  
 .box {
-  padding: 200px 200px;
   margin: 0px;
+  float: right ;
+  background-image: url("../images/Girl\ Coding.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 p {
   color: black;
   font-weight: ;
+}
+img {
+  max-width: 15%;
+  max-height: 15%;
+  border-radius: 50px;
+  border-color: rgba(0, 0, 0, 0.603);
+  float: right;
 }
