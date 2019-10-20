@@ -1,18 +1,18 @@
  body {
-   background: black;
+   background:black;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-weight: 300;
    font-size: 12px;
     }
 
-.container {
+#container {
       width: 80%;
       margin: 0 auto;
       }
  header {
    background-color: black
  }
-header ::after{
+header :after{
 content: '';
 display: table;
 clear: both;
@@ -43,17 +43,21 @@ clear: both;
    opacity: 0.5;
  }
 
-img {
-  float: right;
- 
-h1 {
-  color: black;
-  font-family: cursive;
-  padding: 50px;
-}
-nav a {
-  opacity: 0.2;
+  nav a {
+  opacity: 1.0;
   transition: opacity .40s ease-in-out;
   -moz-transition: opacity .40s ease-in-out;
   -webkit-transition: opacity .40s ease-in-out;
+}
+h1 {
+  color: whitesmoke;
+  background-image: url("https://bit.ly/2BtqvHm");
+  font-style: normal;
+  
+}
+.box {
+  background-image: url("../images/Girl\ Coding.jpg");
+  padding: 200px 200px;
+  margin: 100px;
+  background-repeat: no-repeat;
 }
