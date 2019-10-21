@@ -38,6 +38,7 @@ clear: both;
    display: inline-block;
    margin-left: 50px;
    padding-bottom: 0px;
+   margin-right: 50;
  }
 
  nav a {
@@ -72,13 +73,11 @@ clear: both;
   color: black;
   position: relative;
   top: 50%;
-  left: 31%;
-  right: 100%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%); 
   transform: translateY(-50%);
   z-index: 2;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: sans-serif
 
 }
 
@@ -119,3 +118,5 @@ img {
   border-color: rgba(0, 0, 0, 0.603);
   float: right;
 }
+
+li
