@@ -118,7 +118,16 @@ img {
   border-color: rgba(0, 0, 0, 0.603);
   margin: 40px;
 }
+.content h1 {
+  color: pink;
+  font-family: sans-serif;
+}
 
+.content h2 {
+  color: pink;
+  font-family: sans-serif;
+
+}
 .SocialMedia li{
   list-style: none;
   margin: 10px 15px;
@@ -180,11 +189,11 @@ img {
     float: right;
     width: 1000%;
   }
-  .contact li:hover {
+  .contactme li:hover {
     color: grey;
     border: 1px solid grey;
     transition: .50s;
     border-radius: 50%;
-
 }
+
     
