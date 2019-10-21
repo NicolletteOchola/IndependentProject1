@@ -189,7 +189,11 @@ img {
     float: right;
     width: 1000%;
   }
- .work {
+  .work a {
+    text-decoration: none;
+    padding-right: 20px;
+}
+ .work a:hover {
    color: #ab9e9e;
-  
- }
+   text-decoration: underline;
+  }
