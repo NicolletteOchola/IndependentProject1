@@ -124,8 +124,8 @@ img {
   margin: 10px 30px;
   display: inline-block;
   font-size: 20px;
-  color: #fff;
-  border: 1px solid #fff;
+  color: #ab9e9e;
   transition: .5s;
-  border-radius: 50%;
+  text-align: center;
+  padding-left: 25px;
 }
