@@ -146,3 +146,17 @@ img {
 
 }
 
+.aboutme .content {
+  color: #ab9e9e;
+  padding-left: 20px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px #ab9e9e;
+}
+
+
