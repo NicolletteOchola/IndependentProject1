@@ -139,9 +139,10 @@ img {
   
 }
 .SocialMedia li:hover {
-      color: red;
-      border: 1px solid red;
-      transition: .20s;
+      color: grey;
+      border: 1px solid grey;
+      transition: .50s;
       border-radius: 50%;
 
 }
+
