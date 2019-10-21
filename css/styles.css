@@ -198,8 +198,18 @@ img {
     text-decoration: none;
     padding-right: 20px;
     color: #ab9e9e;
+    text-align: center;
+    padding-left: 20px;
 }
  .work a:hover {
    color: purple;
    text-decoration: underline;
   }
+
+  .quote {
+    text-align: center;
+    color: #ab9e9e;
+    font-size: 20px;
+  }
+
+  
