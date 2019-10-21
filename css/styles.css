@@ -148,21 +148,21 @@ img {
 
 .aboutme .content {
   color: #ab9e9e;
-  box-sizing: border-box;
-  border-radius: 20px;
-  box-shadow: 0 5px 15px #ab9e9e;
+  padding-right: 30px;
   position: absolute;
   left: 30%;
   top: 90%;
 }
 .box .image {
-  width: 150px;
+  width: 50px;
   flex: 0 0 150px;
 
 }
 .aboutme .content {
   padding-left: 20px;
   float: left;
+  text-align: center;
+  font-size: 20px;
   } 
   
 
