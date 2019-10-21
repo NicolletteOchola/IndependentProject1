@@ -180,10 +180,11 @@ img {
     float: right;
     width: 1000%;
   }
-  .contactme li:hover {
+  .contact li:hover {
     color: grey;
     border: 1px solid grey;
     transition: .50s;
     border-radius: 50%;
 
+}
     
