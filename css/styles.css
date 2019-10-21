@@ -60,7 +60,7 @@ clear: both;
 .box {
   margin: 0px;
   float: right ;
-  background-image: url("../images/HandsOnComputer.jpg ");
+  background-image: url("../images/Coding\ computer\ black.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -84,16 +84,16 @@ clear: both;
 .title h1 {
   font-size: 60px;
   color: #ab9e9e;
-  text-align: center;
-  margin: 0;
+  text-align: right;
+  margin: 20px;
  
 }
 
 .title p{
   font-size: 20px;
   color: #ab9e9e;
-  text-align: center;
-  margin: 0;
+  text-align: right;
+  margin: 20px;
   letter-spacing: 6px;
   margin-top: 10px;
   float: right;
@@ -121,11 +121,20 @@ img {
 
 .SocialMedia li{
   list-style: none;
-  margin: 10px 30px;
+  margin: 10px 15px;
   display: inline-block;
   font-size: 20px;
   color: #ab9e9e;
   transition: .5s;
   text-align: center;
-  padding-left: 25px;
+  padding: 15px 15px;
+
+}
+
+.SocialMedia {
+  text-align: right;
+  float: right;
+  width: 1000%;
+  margin: px;
+  
 }
