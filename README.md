@@ -12,6 +12,8 @@ Creating a landing page for an online portfolio
 The nav bar doesn't link to any other pages. Had a few challanges doing that.
 ## LINK TO LIVE SITE
 https://nicolletteochola.github.io/IndependentProject1/.
+## PROJECT SCREENSHOT
+- <img src="/images/Screenshot(2).png">
 ## CONTACT DETAILS
 - email: nicoleochola@gmail.com
 - Number: 0726868063
